@@ -1,2 +1,2 @@
 # SecondCovertToHMS
-User inputs amount of second, program convert it to hour, minute and second format.
+User inputs amount of second, program convert it to hour, minute and second format, and then output.
